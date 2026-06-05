@@ -2,8 +2,7 @@
 ![My Banner](/Anjali.png)
 # Perpetual Quest 🌠
 <a href="mailto:anjushinde19@gmaail.com" target="_blank">
-<img src="https://img.shields.io/badge/Gmail-%2317202A?style=for-the-badge&logo=gmail&logoColor=red">
-</a>&nbsp;&nbsp;
+
 <a href="https://www.linkedin.com/in/anjalishinde1906/" target="_blank">
 <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"></a>&nbsp;&nbsp;
 <a href="https://www.kaggle.com/uvjain30/code" target="_blank">
