@@ -1,5 +1,5 @@
 # Anjali Shinde
-![My Banner](/Anjali.png)
+
 # Perpetual Quest 🌠
 <a href="mailto:anjushinde19@gmaail.com" target="_blank">
 
